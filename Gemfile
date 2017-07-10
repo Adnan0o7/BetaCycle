@@ -35,7 +35,9 @@ gem 'jbuilder', '~> 2.5'
 
 # Use foundation rails for UI
 gem 'foundation-rails'
- 
+
+# Use devise for authentication
+gem 'devise'    
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
